@@ -36,6 +36,7 @@ body{
 }
 .fixed-header{
     top: 0;
+    background-color: chocolate;
 }
 .fixed-footer{
     bottom: 0;
