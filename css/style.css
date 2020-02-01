@@ -22,4 +22,6 @@ body {
     -webkit-text-size-adjust: 100%; /* 2 */
 }
 
-
+head {
+    display: none;
+}
